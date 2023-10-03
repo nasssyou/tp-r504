@@ -1,0 +1,16 @@
+Q1.1 9 contributeurs
+Q1.2 92 kio
+Q1.3 Permet de savoir quelle modification à été faite et par qui
+Q1.4 Jake Ginnivan
+Q1.5 3e5d1596
+Q1.6 Adding tag command reference
+Q1.7 Mardi 17 Juin 2014 21:47:47
+Q1.8 b4ca8f29
+Q1.9 onlywei 
+     Samedi 23 Mars 2013 09:23:42
+Q1.10 git log --oneline | wc -l
+      91 commits
+Q1.11 git log --format=reference permet d'afficher la date en plus
+Q1.12 git log --format="%an"
+Q1.13 git shortlog -s | wc -l 
+      Sur Github, il y a 9 contributeurs mais avec la commande on en trouve 10 mais le contributeur Wei Wang et onlywei sont les mêmes.
