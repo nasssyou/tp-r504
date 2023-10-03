@@ -14,3 +14,6 @@ Q1.11 git log --format=reference permet d'afficher la date en plus
 Q1.12 git log --format="%an"
 Q1.13 git shortlog -s | wc -l 
       Sur Github, il y a 9 contributeurs mais avec la commande on en trouve 10 mais le contributeur Wei Wang et onlywei sont les mêmes.
+
+
+Q2.2 La branche est main
