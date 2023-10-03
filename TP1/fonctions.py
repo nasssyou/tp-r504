@@ -1,5 +1,6 @@
 def puissance(a, b):
 
+
    	
 
    resultat = a ** b
